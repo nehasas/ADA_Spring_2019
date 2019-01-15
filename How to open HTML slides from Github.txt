@@ -1,3 +1,8 @@
+Note the below does not work anymore as these things have it! Rawgit is being phased out by the hobbiest who started it. Another option is to prepend to the URL for the slides: http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html (see https://htmlpreview.github.io/). I will be looking for more solutions but for now, I will house the html slides on canvas and mostly datasets on github.
+
+
+
+
 1. Click on the file
 2. Click on view raw
 3. Replace the first part of the link (raw.githubusercontent.com) with 'cdn.rawgit.com' 
